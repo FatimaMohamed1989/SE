@@ -4,12 +4,11 @@ Created on 9 Mar 2018
 @author: user
 '''
 
-class light_tester(object):
+class Light_Tester(object):
     '''
     classdocs
     '''
-   # lights = none;
-
+ 
     
 
 
